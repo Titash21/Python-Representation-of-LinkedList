@@ -1,3 +1,3 @@
 # Python-Representation-of-LinkedList
 
-Python Representation of Linked List
+Python and Java Representation of Linked List. Some interview problems on LinkedList.
